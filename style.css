@@ -31,6 +31,12 @@ li {
     margin-top: 20px;
 }
 
+.header {
+    margin-bottom: 40px;
+    padding-left: 10px;
+    border-left: 5px solid #000000;
+}
+
 .link-no-underline {
     text-decoration: none;
     color: black;
