@@ -10,7 +10,7 @@ h1, h2, h4 {
 }
 
 p, ul, ol {
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 ul, ol {
@@ -29,6 +29,15 @@ li {
 .content,
 .content-block {
     margin-top: 20px;
+}
+
+.content-block {
+    display: inline-block;
+}
+
+ul.ingredients li {
+    float: left;
+    width: 50%;
 }
 
 .header {
